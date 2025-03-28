@@ -1,0 +1,3 @@
+Produto: Café, Quantidade: 1, Preço unitário: R$800.00 
+Produto: Azeite Galo, Quantidade: 1, Preço unitário: R$1000.00 
+Produto: Ovo de páscoa, Quantidade: 2, Preço unitário: R$500.00 
